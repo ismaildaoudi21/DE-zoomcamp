@@ -1,0 +1,13 @@
+data/
+DE-zoomcamp/week_1_basics_n_setup/1_terraform_gcp/terraform/
+DE-zoomcamp/**/.ipynb_checkpoints/
+DE-zoomcamp/week_1_basics_n_setup/2_docker_sql/data_pgadmin/
+DE-zoomcamp/week_2/**/*.parquet
+*.pyc
+dtc-de-*.json
+*.log
+*.tmp
+*.csv.gz
+*.csv
+*.csv
+*.parquet
