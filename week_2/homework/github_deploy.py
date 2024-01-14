@@ -1,3 +1,4 @@
+
 from prefect.deployments import Deployment
 from parameterized_flow import etl_parent_flow
 from prefect.filesystems import GitHub
@@ -13,3 +14,4 @@ github_dep = Deployment.build_from_flow(
 
 if __name__ == '__main__':
     github_dep.apply()
+
